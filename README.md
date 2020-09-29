@@ -18,6 +18,11 @@ pip install nltk
 pip install scikit-learn
 ```
 
+## tweet dataset
+couldn't upload the tweet dataset as file is too big. 
+data can be downloaded from here.
+https://www.kaggle.com/kazanova/sentiment140
+
 ## Detail about the project
 SO, let's start and see how we are going to proceed in order to achieve our goal and that is, training our model so that it can detect the tweets with positive and negative sentiments.
 
