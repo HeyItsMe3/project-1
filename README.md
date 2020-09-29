@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis
 There are many tweets gets uploaded out there on twitter, few of them might be sensitive or let say those tweets has negative sentiments. 
 So our objective is to create a model that can detect such tweets and is able to label them as positive or negatie tweets with better accuracy.
-To train our model we have data set that contains 1.6 million tweets in it, **tweets with positive sentiments are labeled as '4' and tweet with negative sentiments labeled with '4'.**
+To train our model we have data set that contains 1.6 million tweets in it, **tweets with positive sentiments are labeled as '4' and tweet with negative sentiments labeled with '0'.**
 ## Requirements
 python >=2.7  
 
