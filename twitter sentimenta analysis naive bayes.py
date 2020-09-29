@@ -161,8 +161,8 @@ NB_classifier2.fit(X_train,y_train)
 #print("accuracy of test data prediction :",NB_classifier.score(X_train,y_train,sample_weight=None),'\n')
 #print("accuracy of test data prediction :",NB_classifier.score(X_test,y_test,sample_weight=None))
 
-print("accuracy of test data prediction2 :",NB_classifier2.score(X_train,y_train,sample_weight=None),'\n')
-print("accuracy of test data prediction2 :",NB_classifier2.score(X_test,y_test,sample_weight=None))
+print("accuracy of test data prediction2 :",NB_classifier2.score(X_train,y_train,sample_weight=None),'\n')  #0.850
+print("accuracy of test data prediction2 :",NB_classifier2.score(X_test,y_test,sample_weight=None))         #0.766
 
 
 ##confusion metrix for visualizing the model's result
