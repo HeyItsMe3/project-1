@@ -173,3 +173,6 @@ cm = confusion_matrix(y_test, y_predict_test)
 sns.heatmap(cm, annot=True)
 
 print(classification_report(y_test, y_predict_test))
+
+
+#### tf-idfvectorizer + MultinomialNB algorithm gives better results and accuracy
